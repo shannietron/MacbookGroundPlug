@@ -6,6 +6,5 @@ I don't know why Apple does not supply NEMA 5-15P (3 prong plug including a grou
 
 ### Before
 ![](img/before_Straight.gif)
-![](img/before_Inverted.gif)
 ### After
 ![](img/after.gif)
